@@ -2,7 +2,7 @@
 This is a practice session for graphql.
 
 1. What is graphql ? <br>
-a. The problem that is present in REST — Under or Overfetching of data using
+a. The problem that is present in REST — Under or Overfetching of data <br>
     Overfetching— takes place when more data is fetched than required.
     Underfetching — opposite, takes place when not enough data is delivered upon fetching. 
     It solved by GraphQL — you get exactly data that you requests.
